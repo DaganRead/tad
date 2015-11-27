@@ -1,0 +1,10 @@
+{
+  "name": "TAD",
+  "main": "index.html",
+  "window": {
+  	"icon":"images/favicon-32.png",
+    "toolbar": false,
+    "width": 1280,
+    "height": 768
+  }
+}
